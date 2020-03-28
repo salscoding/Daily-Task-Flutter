@@ -1,6 +1,6 @@
-# example_provider
+# Daily Task App
 
-Example code with provider
+Your daily task keeping app
 
 ## Getting Started
 
